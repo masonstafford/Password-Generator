@@ -10,6 +10,8 @@ Prompt the user to enter a number of how many characters they would like to be i
 If the user enters less than 8 or over 128 characters, then an alert will run asking the user to use the recommended character amount and then will return back to the prompt.
 After the users inputs have been confirmed, a strong password meeting all the users criteria will be displayed on the screen.
 
+ deployed site: https://masonstafford.github.io/Password-Generator/
+
 ![Screen Shot 2020-02-02 at 10 51 17 PM](https://user-images.githubusercontent.com/46834613/73624986-f5792600-4610-11ea-9439-f165fe74c61e.png)
 
 ![Screen Shot 2020-02-02 at 10 51 28 PM](https://user-images.githubusercontent.com/46834613/73624987-f5792600-4610-11ea-86d8-5e6eedabedbd.png)
